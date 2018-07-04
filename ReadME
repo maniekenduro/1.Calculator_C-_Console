@@ -1,0 +1,9 @@
+Hello,
+This is my first console aplication in c#. So if you reading this, please forgive me my mistakes:)
+If you have some reservation about my code, please write your proposition in Issues .
+
+This program is a simply calculator which is immune to entering data incorrectly:
+-adding more than one symbol of action (+,-,*,/)
+-adding only one number
+-starting or ending equation by symbol
+-adding letter
